@@ -1,0 +1,34 @@
+/* ProductList.css */
+h1 {
+    text-align: center;
+    color: #3498db; /* Asosiy rang */
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+}
+
+th, td {
+    padding: 12px;
+    text-align: left;
+    border: 1px solid #ddd;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+button {
+    background-color: #2ecc71; /* Ikkinchi rang */
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #27ae60; /* Hover holati */
+}
